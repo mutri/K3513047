@@ -1,4 +1,6 @@
 <?php
+//menambahkan komentar pertama
+//menambahkan komentar kedua
 
 /*
  *---------------------------------------------------------------
